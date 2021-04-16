@@ -26,7 +26,7 @@ repositories {
 apply plugin: 'forge'
 
 version = modVersion
-group= modGroup
+group = modGroup
 archivesBaseName = modBaseName
 
 sourceCompatibility = 1.8

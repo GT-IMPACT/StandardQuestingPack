@@ -228,3 +228,5 @@ run/
 *.bat
 Standart-Expansion.ipr
 Standart-Expansion.iws
+*.iws
+*.ipr
